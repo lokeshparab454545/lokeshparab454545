@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://vimeo.com/user162747780)
 <h1 align="center">Hi 👋, I'm Lokesh Parab</h1>
 <h3 align="center">A passionate Flutter developer from Mumbai, India</h3>
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+<img align="center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshparab454545&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshparab454545" /> </p>
 
